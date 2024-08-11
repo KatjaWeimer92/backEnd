@@ -1,27 +1,30 @@
 public class Main {
-    public static void main(String[] args) {
-
-        int a = 10;
-        int b = 3;
-        int res = div(a,b);
-        System.out.println(res);
-
-    }
-
-    public static int div(int a,int b){
-        int rez;
+    public static void main(String[] args)  throws Exception{
+        int a=10;
+        int b = 1;
         try {
-            rez = a/b;
-            return rez;
-            } catch (ArithmeticException e) {
+            int res = div(a,b);
+            System.out.println(res);
         } catch (Exception e){
-            System.out.println("error!");
+            System.out.println("Error!");
         }
 
-      return 0;
     }
 
-    public void m1(){
-        throw new RuntimeException();
+    public static int div(int a, int b){
+        int rez;
+        try {
+            rez = a / b;
+        } catch (ArithmeticException e){
+            throw new MyProgramException("деление", a, b);
+        }
+
+        return rez;
+    }
+
+
+    public static void m1 () throws Exception{
+        // exception
+        throw new Exception();
     }
 }
