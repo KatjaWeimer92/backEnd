@@ -1,9 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$USER_HOME$/Desktop/IT Kurs/users/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lesson_03/homework_03/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lesson_03/homework_03/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lesson_03/product_service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lesson_03/product_service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson_05/demo20240813_05/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson_05/demo20240813_05/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson_05/homework_05/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson_05/homework_05/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson_07/demo20230815_07/jdbc_demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson_07/demo20230815_07/jdbc_demo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson_07/demo20230815_07/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson_07/demo20230815_07/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson_07/homework_07/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson_07/homework_07/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson_08/demo20240816_8/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson_08/demo20240816_8/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson_11/hibernate_xml_20240821/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson_11/hibernate_xml_20240821/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson_12/hibernate_xml_20240822/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lesson_12/hibernate_xml_20240822/src/main/resources" charset="UTF-8" />
+    <file url="file://$USER_HOME$/books/src/main/java" charset="UTF-8" />
   </component>
 </project>

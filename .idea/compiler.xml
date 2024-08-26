@@ -7,13 +7,26 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="homework_03" />
+        <module name="demo20240813_05" />
+        <module name="jdbc_demo" />
+        <module name="books" />
+        <module name="homework_07" />
+        <module name="homework_05" />
+        <module name="demo20240816_8" />
+        <module name="hibernate_xml_20240821" />
         <module name="product_service" />
+        <module name="users" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="hibernate_xml_20240822" target="17" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="books" options="-parameters" />
       <module name="demo_spring_intro" options="--add-exports jdk.jpackage/jdk.jpackage.internal=ALL-UNNAMED" />
+      <module name="users" options="-parameters" />
     </option>
   </component>
 </project>
