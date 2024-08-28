@@ -3,7 +3,7 @@ package de.ait.shop43.product.service;
 import de.ait.shop43.product.dto.RequestProductDTO;
 import de.ait.shop43.product.dto.ResponseProductDTO;
 import de.ait.shop43.product.entity.Product;
-import de.ait.shop43.product.exception.ProductNotFoundException;
+import de.ait.shop43.exception.ProductNotFoundException;
 import de.ait.shop43.product.repository.ProductRepository;
 import lombok.AllArgsConstructor;
 import org.modelmapper.ModelMapper;

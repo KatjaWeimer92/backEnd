@@ -1,4 +1,4 @@
-package de.ait.shop43.product.exception;
+package de.ait.shop43.exception;
 
 public class ProductNotFoundException extends RuntimeException{
     public ProductNotFoundException(String message) {

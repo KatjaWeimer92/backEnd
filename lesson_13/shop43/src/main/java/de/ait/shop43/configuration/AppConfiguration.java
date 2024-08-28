@@ -1,4 +1,4 @@
-package de.ait.shop43.product.configuration;
+package de.ait.shop43.configuration;
 
 import org.modelmapper.ModelMapper;
 import org.springframework.context.annotation.Bean;
